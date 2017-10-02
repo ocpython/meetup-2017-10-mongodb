@@ -1,0 +1,8 @@
+# for Jupyter Notebook kernel only
+ipykernel
+
+# Core MongoDB Package
+pymongo
+
+# MongoDB ODM
+mongoengine
