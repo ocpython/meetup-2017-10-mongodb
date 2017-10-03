@@ -8,7 +8,9 @@ October 2017
 1. **A MongoDB Server**
 
     a. **Docker** - Install [Docker](https://www.docker.com/) locally (to run MongoDB locally)
+
     b. **Online #1** - 500 MB Free at [mLab.com](https://mlab.com)
+
     c. **Online #2** - Start free using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 2. **Jupyter Notebook** - Install Jupyter Notebook globally for running notebooks in this repo
